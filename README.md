@@ -58,5 +58,6 @@ Own code: MIT. Own documentation and aggregate results: CC BY 4.0. Third-party s
 
 Contact: [repository issues](https://github.com/vmoprojs/owob-ohp-ensanut2018/issues).
 
-Zenodo: **GitHub integration enabled on 2026-10-19; v1.0.1 archiving pending verification**. The v1.0.0 tag is retained unchanged. No DOI is claimed before a real record is verified. See [docs/zenodo_handoff.md](docs/zenodo_handoff.md).
+Zenodo: **v1.0.1 archived and verified** at [10.5281/zenodo.23475613](https://doi.org/10.5281/zenodo.23475613). Concept DOI (all versions): [10.5281/zenodo.23475612](https://doi.org/10.5281/zenodo.23475612). All 87 archived files match the immutable v1.0.1 tag. The v1.0.0 tag is retained unchanged.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23475613.svg)](https://doi.org/10.5281/zenodo.23475613)
