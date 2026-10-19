@@ -2,6 +2,8 @@ cff-version: 1.2.0
 message: "If you use these reproducibility materials, please cite this software/research compendium."
 title: "Reproducibility materials for Nutritional status and reported oral health impacts in a selected sample of Ecuadorian children and adolescents from ENSANUT 2018"
 version: 1.0.1
+doi: "10.5281/zenodo.23475613"
+url: "https://zenodo.org/records/23475613"
 type: software
 repository-code: "https://github.com/vmoprojs/owob-ohp-ensanut2018"
 license: MIT
