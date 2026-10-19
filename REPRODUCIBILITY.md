@@ -10,5 +10,5 @@ Input IDs and category identities: exact. Rebuilt numerical frame tolerance 1e-1
 
 Source lineage is in docs/provenance/CODE_LINEAGE.csv and FROZEN_SOURCE_HASHES.csv. D modules remove only their old helpers source header. Own orchestration injects relative paths and separates private runtime work. K engine and L model engine are byte-identical; extracted helper functions retain the original definitions. Public aggregate input hashes are checked before rendering. checksums/SHA256SUMS.txt hashes all distributed payload files except itself; it does not claim to hash the future commit object.
 
-Zenodo status: account/integration requires manual action; no DOI verified. A future DOI update must be a new main-branch commit; v1.0.0 must never be moved.
+Zenodo status: authenticated GitHub integration enabled on 2026-10-19. Patch v1.0.1 initiates archival after v1.0.0 was published before integration. Scientific code, frozen data and results are unchanged. DOI verification is pending. The post-DOI update will be a new main-branch commit; neither release tag will be moved.
 

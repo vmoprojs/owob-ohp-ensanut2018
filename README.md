@@ -52,11 +52,11 @@ INEC source files, the investigator pivot, personal crosswalks, adjudicated date
 
 ## Citation, authors and licenses
 
-Confirmed manuscript authors: Náthaly Mercedes Román-Galeano; Melanie Scarlet Sánchez-Ramos; Alejandro Rodriguez. No ORCID was supplied. The GitHub account owner is not added as a scientific author. Cite [CITATION.cff](CITATION.cff), version 1.0.0 and the exact release/commit.
+Confirmed manuscript authors: Náthaly Mercedes Román-Galeano; Melanie Scarlet Sánchez-Ramos; Alejandro Rodriguez. No ORCID was supplied. The GitHub account owner is not added as a scientific author. Cite [CITATION.cff](CITATION.cff), version 1.0.1 and the exact release/commit.
 
 Own code: MIT. Own documentation and aggregate results: CC BY 4.0. Third-party software retains its licenses; INEC/WHO materials are not relicensed. See [LICENSE](LICENSE) and [DATA_LICENSE.md](DATA_LICENSE.md).
 
 Contact: [repository issues](https://github.com/vmoprojs/owob-ohp-ensanut2018/issues).
 
-Zenodo: **archiving pending account login/integration; no DOI verified**. GitHub release availability does not imply a Zenodo record. See [docs/zenodo_handoff.md](docs/zenodo_handoff.md).
+Zenodo: **GitHub integration enabled on 2026-10-19; v1.0.1 archiving pending verification**. The v1.0.0 tag is retained unchanged. No DOI is claimed before a real record is verified. See [docs/zenodo_handoff.md](docs/zenodo_handoff.md).
 
