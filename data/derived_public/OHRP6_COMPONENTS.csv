@@ -1,0 +1,19 @@
+"domain","variable","indicator","n_eligible","n_positive","n_negative","n_missing","denominator_n","percent_weighted","CI_low_percent","CI_high_percent","CI_method","design_df"
+"total","f4_s2_204_a","Dental pain",19750,5603,14147,0,19750,27.4464170007972,26.3110015569949,28.611805183263,"Logit-Wald t via svymean linearization; xlogit-checked; no model fit",2419
+"total","f4_s2_204_b","Difficulty chewing",19750,3436,16314,0,19750,16.6955734548306,15.7534405611055,17.6822246246116,"Logit-Wald t via svymean linearization; xlogit-checked; no model fit",2419
+"total","f4_s2_204_c","Difficulty speaking",19750,1599,18151,0,19750,8.42169036578209,7.744366598835,9.15237610570601,"Logit-Wald t via svymean linearization; xlogit-checked; no model fit",2419
+"total","f4_s2_204_d","Embarrassment / avoiding smile",19750,1812,17938,0,19750,9.90358114457147,9.16014259575278,10.7002499653877,"Logit-Wald t via svymean linearization; xlogit-checked; no model fit",2419
+"total","f4_s2_204_e","Sleep interruption",19750,1676,18074,0,19750,8.40684033725561,7.76457284846834,9.09699490825631,"Logit-Wald t via svymean linearization; xlogit-checked; no model fit",2419
+"total","f4_s2_204_f","School absence",19750,1227,18523,0,19750,6.63245253270664,6.0201372865613,7.30220799911698,"Logit-Wald t via svymean linearization; xlogit-checked; no model fit",2419
+"children","f4_s2_204_a","Dental pain",11319,3644,7675,0,11319,31.0718986658156,29.527206164738,32.6599501980789,"Logit-Wald t via svymean linearization; xlogit-checked; no model fit",2379
+"children","f4_s2_204_b","Difficulty chewing",11319,2221,9098,0,11319,18.8230547385608,17.568074192955,20.1457753905438,"Logit-Wald t via svymean linearization; xlogit-checked; no model fit",2379
+"children","f4_s2_204_c","Difficulty speaking",11319,1088,10231,0,11319,10.0194424830904,9.06128841235432,11.0665836842393,"Logit-Wald t via svymean linearization; xlogit-checked; no model fit",2379
+"children","f4_s2_204_d","Embarrassment / avoiding smile",11319,1263,10056,0,11319,12.1406521713074,11.1006033464689,13.263607652242,"Logit-Wald t via svymean linearization; xlogit-checked; no model fit",2379
+"children","f4_s2_204_e","Sleep interruption",11319,1067,10252,0,11319,9.31367905040902,8.42832745367388,10.2815900545727,"Logit-Wald t via svymean linearization; xlogit-checked; no model fit",2379
+"children","f4_s2_204_f","School absence",11319,855,10464,0,11319,8.08349881216306,7.2391601610698,9.01674420211253,"Logit-Wald t via svymean linearization; xlogit-checked; no model fit",2379
+"adolescents","f4_s2_204_a","Dental pain",8431,1959,6472,0,8431,23.0239459004301,21.5740615183379,24.5407793105661,"Logit-Wald t via svymean linearization; xlogit-checked; no model fit",2321
+"adolescents","f4_s2_204_b","Difficulty chewing",8431,1215,7216,0,8431,14.1004080773165,12.8682508302354,15.4296539085804,"Logit-Wald t via svymean linearization; xlogit-checked; no model fit",2321
+"adolescents","f4_s2_204_c","Difficulty speaking",8431,511,7920,0,8431,6.47270448825741,5.62922438780645,7.43261703826609,"Logit-Wald t via svymean linearization; xlogit-checked; no model fit",2321
+"adolescents","f4_s2_204_d","Embarrassment / avoiding smile",8431,549,7882,0,8431,7.17473491686429,6.27248672688522,8.19541653806599,"Logit-Wald t via svymean linearization; xlogit-checked; no model fit",2321
+"adolescents","f4_s2_204_e","Sleep interruption",8431,609,7822,0,8431,7.3006513195836,6.43394579685515,8.27378513203914,"Logit-Wald t via svymean linearization; xlogit-checked; no model fit",2321
+"adolescents","f4_s2_204_f","School absence",8431,372,8059,0,8431,4.86242282931327,4.07858224367968,5.78781587009003,"Logit-Wald t via svymean linearization; xlogit-checked; no model fit",2321

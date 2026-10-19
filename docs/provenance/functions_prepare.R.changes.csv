@@ -1,0 +1,2 @@
+"source_line","old","new","reason"
+1,"source('R/helpers.R');verify_sources()","verify_sources()","Remove original orchestration source; portable dependencies injected"

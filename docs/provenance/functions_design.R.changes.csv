@@ -1,0 +1,2 @@
+"source_line","old","new","reason"
+1,"source('R/helpers.R');verify_sources();g<-priv('governed_pivot.rds');o<-clean(g);f<-priv('official_F4_clean.rds');i<-match(f$id_per,o$id_per)","verify_sources();g<-priv('governed_pivot.rds');o<-clean(g);f<-priv('official_F4_clean.rds');i<-match(f$id_per,o$id_per)","Remove original orchestration source; portable dependencies injected"

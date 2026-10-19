@@ -1,0 +1,40 @@
+{
+  "title": "OWOB-OHP ENSANUT 2018 reproducibility research compendium",
+  "version": "1.0.0",
+  "upload_type": "software",
+  "description": "R research compendium for selected-sample analyses of nutritional status and reported oral health impacts. WHO 2007 S2 primary exposure; SAV sensitivity. Public reproduction uses frozen aggregates. Full analytical replay requires nonredistributed pivot and certified internal inputs. Unknown F4-to-pivot selection and assumed no oedema; no certified national prevalence claim. D08 pending and submission not authorized. Own code MIT; own documentation and aggregate outputs CC BY 4.0; third-party terms retained.",
+  "creators": [
+    {
+      "name": "Román-Galeano, Náthaly Mercedes"
+    },
+    {
+      "name": "Sánchez-Ramos, Melanie Scarlet"
+    },
+    {
+      "name": "Rodriguez, Alejandro"
+    }
+  ],
+  "keywords": [
+    "ENSANUT 2018",
+    "Ecuador",
+    "oral health",
+    "obesity",
+    "overweight",
+    "survey design",
+    "reproducible research",
+    "R"
+  ],
+  "license": "mit",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/vmoprojs/owob-ohp-ensanut2018",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://anda.inec.gob.ec/anda5/index.php/catalog/891",
+      "relation": "references",
+      "scheme": "url"
+    }
+  ]
+}

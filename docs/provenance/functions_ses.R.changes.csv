@@ -1,0 +1,2 @@
+"source_line","old","new","reason"
+1,"source('R/helpers.R');verify_sources();pf<-read.csv('config/PROTOCOL_FREEZE.csv');stopifnot(all(vapply(pf$path,sha,'')==pf$sha256))","verify_sources();pf<-read.csv('config/PROTOCOL_FREEZE.csv');stopifnot(all(vapply(pf$path,sha,'')==pf$sha256))","Remove original orchestration source; portable dependencies injected"

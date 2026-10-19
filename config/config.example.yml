@@ -1,0 +1,5 @@
+mode: public
+raw_dir: data/raw
+output_dir: results
+full_requires_nonredistributed_inputs: true
+submission_authorized: false
