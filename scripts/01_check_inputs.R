@@ -8,3 +8,8 @@ if(identical(mode,'full')){
  stopifnot(all(vapply(p,sha,'')==im$sha256))
 }
 
+lineage<-rd('docs/provenance/CODE_LINEAGE.csv')
+stopifnot(all(vapply(lineage$public_file,sha,'')==lineage$public_sha256))
+payload<-readLines('checksums/SHA256SUMS.txt')
+payload_path<-substring(payload,67);payload_hash<-substring(payload,1,64)
+stopifnot(all(file.exists(payload_path)),all(vapply(payload_path,sha,'')==payload_hash))
